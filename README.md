@@ -4,6 +4,8 @@ A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detecto
 
 <img align="right" src= "https://github.com/amdegroot/ssd.pytorch/blob/master/doc/ssd.png" height = 400/>
 
+
+### Reproduced original link：https://github.com/amdegroot/ssd.pytorch
 ### Table of Contents
 - <a href='#installation'>Installation</a>
 - <a href='#datasets'>Datasets</a>
